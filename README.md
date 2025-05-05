@@ -81,13 +81,6 @@ Here are some of the technologies I'm working with and learning through the ALX 
   </p>
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/push-pin.png" width="30px"/> Highlighted Projects
-
-*(Don't forget to **pin** your best repositories to your profile!)*
-
-1.  **[Project Title 1]**: [Briefly describe the project and the problem it solves. Mention key technologies used.] - [Link to Repo]
-2.  **[Project Title 2]**: [Briefly describe the project and the problem it solves. Mention key technologies used.] - [Link to Repo]
-3.  **[Project Title 3]**: [Briefly describe the project and the problem it solves. Mention key technologies used.] - [Link to Repo]
     ---
 
 ## <img src="https://img.icons8.com/color/48/000000/contact-card.png" width="30px"/> Get In Touch
