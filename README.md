@@ -33,7 +33,7 @@ I'm currently deepening my expertise in backend development through the intensiv
   <p>
     Specifically, I am deeply interested in tackling challenges faced at various levels:
     <ul>
-      <li><img src="https://img.icons8.com/color/48/000000/government.png" width="20px"/> *Government:* Developing systems to improve public services, efficiency, and transparency.</li>
+      <li><img src="https://img.icons8.com/color/48/000000/government.png" width="20px"/> **Government:** Developing systems to improve public services, efficiency, and transparency.</li>
       <li><img src="https://img.icons8.com/color/48/000000/business.png" width="20px"/> **Corporate Bodies:** Building robust backend infrastructure to streamline operations and drive business growth.</li>
       <li><img src="https://img.icons8.com/emoji/48/000000/family--man-woman-girl-boy.png" width="20px"/> **Individuals:** Creating applications that simplify daily tasks and enhance quality of life.</li>
     </ul>
