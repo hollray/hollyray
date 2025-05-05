@@ -22,7 +22,7 @@
 
 ## <img src="https://img.icons8.com/fluent/48/000000/user-male-circle.png" width="30px"/> About Me & My Mission
 
-I'm currently deepening my expertise in backend development through the intensive **ALX Software Engineering program**. My journey into software engineering wasn't just about learning to code; it was ignited by a desire to **develop practical solutions** that address common challenges and genuinely **make life easier** for people.
+I'm currently deepening my expertise in backend development through the intensive *ALX Software Engineering program*. My journey into software engineering wasn't just about learning to code; it was ignited by a desire to **develop practical solutions** that address common challenges and genuinely **make life easier** for people.
 
 <details>
   <summary><strong>My Core Motivation & Ambition</strong> (Click to expand)</summary>
