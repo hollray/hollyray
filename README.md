@@ -74,9 +74,9 @@ Here are some of the technologies I'm working with and learning through the ALX 
 ## <img src="https://img.icons8.com/color/48/000000/combo-chart.png" width="30px"/> My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hollyray&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="My GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hollyray&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
   <br/>
   </p>
 ---
